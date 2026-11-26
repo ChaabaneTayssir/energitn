@@ -1,0 +1,12 @@
+# Règle du guide : pas de CSV ni de .joblib sur GitHub (on régénère avec --seed 42)
+data/
+models/
+.venv/
+__pycache__/
+*.pyc
+backend/db.sqlite3
+backend/staticfiles/
+
+# secrets locaux
+backend/.env
+.env
