@@ -594,15 +594,7 @@ Chaque utilisateur ne doit voir que les pages de son rôle. Par exemple, un foye
 
 Raccourci Windows : `verifier.bat`, à la racine du projet.
 
-## 15. Travailler en équipe avec Git et GitHub
-
-Le projet est développé par trois membres :
-
-- yasmineh
-- yasminel
-- tayssir
-
-Chaque membre travaille de préférence sur sa propre branche.
+Chaque membre travaille sur sa propre branche.
 
 Récupérer les dernières modifications :
 
